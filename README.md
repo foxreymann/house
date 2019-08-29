@@ -1,6 +1,17 @@
+## ground floor new layout
+
+![](./ground-floor-new-layout.png)
+
+## first floor old layout
+
+![](./first-floor-old-layout.png)
+
 # living room
 
 ![](https://photos.app.goo.gl/sSJxZjJeUxUG7yyX7)
+
+
+<!--
 
 # boiler
 
@@ -13,12 +24,6 @@ https://e-metalowiec.com/podgrzewacze-elektryczne/1572-przeplywowy-ogrzewacz-wod
 
 dulux polączyć z wapnem
 nie latexowe
-
-# ground room floor
-
-real wood
-https://www.diy.com/departments/colours-rondo-natural-oak-solid-wood-flooring-1-3m-/1650211_BQ.prd
-kuchnia 120cm płytki, są listwy do połączenia drewna i płytek, listy nakładkowe
 
 laminate
 https://www.selcobw.com/products/flooring-tiling/flooring/laminate/krono-8mm-v-groove-laminate-flooring-vario-rockford-oak-effect-2-22m
@@ -121,3 +126,5 @@ See the [Contribution Guide](./CONTRIBUTING.md).
 ## License
 
 See the [License File](./LICENSE.md).
+
+-->
