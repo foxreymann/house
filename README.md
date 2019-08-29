@@ -1,7 +1,36 @@
-# tomasz questions
+# living room
 
-- 2 bedrooms
-- volt
+![](https://photos.app.goo.gl/sSJxZjJeUxUG7yyX7)
+
+# boiler
+
+## electric
+
+https://www.selcobw.com/products/plumbing-heating/heating/boilers/vokera-easi-heat-29kw-combi-boiler-flue
+https://e-metalowiec.com/podgrzewacze-elektryczne/1572-przeplywowy-ogrzewacz-wody-siemens-dh24400-24-kw-wysylka-gratis--4242003324097.html
+
+# paint
+
+dulux polączyć z wapnem
+nie latexowe
+
+# ground room floor
+
+real wood
+https://www.diy.com/departments/colours-rondo-natural-oak-solid-wood-flooring-1-3m-/1650211_BQ.prd
+kuchnia 120cm płytki, są listwy do połączenia drewna i płytek, listy nakładkowe
+
+laminate
+https://www.selcobw.com/products/flooring-tiling/flooring/laminate/krono-8mm-v-groove-laminate-flooring-vario-rockford-oak-effect-2-22m
+
+# bathroom
+
+drewno sie zrywa, na to sklejka wodoodporna, na to płytki na klej plastyczny
+
+# upstairs bedroom
+
+https://www.diy.com/departments/holden-d-cor-teal-animals-glitter-wallpaper/1927410_BQ.prd
+https://www.diy.com/departments/peyote-cartoon-foxes-wallpaper/3663602561569_BQ.prd/gallery
 
 # Easy Markdown to Github Pages
 
