@@ -1,3 +1,7 @@
+# [Kitchen](./kitchen/README.md)
+
+<!--
+
 ## ground floor new layout
 
 ![](./ground-floor-new-layout.png)
@@ -6,12 +10,15 @@
 
 ![](./first-floor-old-layout.png)
 
-# living room
+## kitchen
 
-![](https://photos.app.goo.gl/sSJxZjJeUxUG7yyX7)
+## water heaters
 
+https://www.ebay.co.uk/itm/Instant-Electric-Hot-Water-Heater-Boiler-24KW-Tankless-Water-Heater-Digital/183759015741
 
-<!--
+## heaters
+
+High Heat Retention storage heaters from manufacturers such as Dimplex
 
 # boiler
 
