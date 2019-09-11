@@ -1,10 +1,10 @@
 # [Kitchen](./kitchen/README.md)
 
-<!--
-
-## ground floor new layout
+# ground floor plan
 
 ![](./ground-floor-new-layout.png)
+
+<!--
 
 ## first floor old layout
 
