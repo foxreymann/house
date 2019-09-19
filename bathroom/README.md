@@ -3,16 +3,18 @@
 192cm x 186cm
 
 shower 80cm
-toilet 50cm
 sink 50cm
+toilet 40cm
+toilet space from wall 10cm
+space free - 6cm
 
 # shower
 
 [tray](https://www.diy.com/departments/cooke-lewis-lagan-quadrant-shower-tray-l-800mm-w-800mm-d-150mm/3663602435815_BQ.prd)
 
-https://www.wickes.co.uk/Wickes-800-x-800mm---Quadrant-Sliding-Shower-Enclosure---Chrome/p/161394
+[enclosure](https://www.wickes.co.uk/Wickes-800-x-800mm---Quadrant-Sliding-Shower-Enclosure---Chrome/p/161394)
 
-sink:
+# sink
 https://www.diy.com/departments/goodhome-towan-white-worktop-basin/3663602527220_BQ.prd?rrec=true
 
 https://www.diy.com/departments/goodhome-ladoga-white-vanity-basin-unit-w-600mm-h-810mm/3663602527268_BQ.prd?rrec=true
