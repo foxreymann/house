@@ -1,5 +1,14 @@
-shower:
-https://www.diy.com/departments/cooke-lewis-lagan-quadrant-shower-tray-l-800mm-w-800mm-d-150mm/3663602435815_BQ.prd
+# measurements
+
+192cm x 186cm
+
+shower 80cm
+toilet 50cm
+sink 50cm
+
+# shower
+
+[tray](https://www.diy.com/departments/cooke-lewis-lagan-quadrant-shower-tray-l-800mm-w-800mm-d-150mm/3663602435815_BQ.prd)
 
 https://www.wickes.co.uk/Wickes-800-x-800mm---Quadrant-Sliding-Shower-Enclosure---Chrome/p/161394
 
@@ -16,12 +25,12 @@ http://e-piecyk.pl/pl/p/Automat-splukujacy-WC-34-SU-20-Syfon-Zawor/855
 tiles:
 diy
 teal grout
+gray grout?
 
 paint:
 https://www.diy.com/departments/dulux-travels-in-colour-teal-fa-ade-blue-matt-emulsion-paint-2-5-l/1029627_BQ.prd
 
 
-wall: 186cm
-shower: 80cm
+# vinyl floor
 
-106cm
+??
