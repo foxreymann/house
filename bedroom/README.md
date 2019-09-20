@@ -1,6 +1,6 @@
 # measurements  
 
-area: 11.61m^2  
+area: 11.61sqm
 
 # floor  
 
