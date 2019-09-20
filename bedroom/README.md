@@ -20,19 +20,22 @@ nie latex!
 
 # celling paint  
 
-white?
+white
 
 # door  
 
-color? same as wall?
+same as walls
+
+ideas:
+mirror one side / both sides?
+https://www.aliexpress.com/item/32814313481.html
+https://www.aliexpress.com/item/32827913660.html
 
 # Architraves  
 
-color? white or  
-
-[Dulux Teal Facade](https://www.diy.com/departments/dulux-travels-in-colour-teal-fa-ade-blue-matt-emulsion-paint-2-5-l/1029627_BQ.prd)  
+white
 
 # Skirtings  
 
-color?
-design?
+design: as discussed
+color: white

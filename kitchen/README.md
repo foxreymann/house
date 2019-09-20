@@ -1,11 +1,11 @@
 # layout
 
-![](./base-3d-1.png)
+# measurements
 
-![](./base-3d-2.png)
+97.5cm
+80cm
+60cm
+-----
+237.5cm
 
-![](./base-3d-3.png)
-
-# parts
-
-[Corner Base Unit](https://www.wickes.co.uk/Wickes-Madison-Grey-Gloss-Handleless-Corner-Base-Unit---925mm/p/122994)
+kitchen to second window: 196.6cm
