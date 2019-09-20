@@ -15,9 +15,6 @@ Colour Palette Fandeck
 
 ![](./paint.jpg)  
 
-dodać wapno?
-nie latex!
-
 # celling paint  
 
 white  
@@ -40,7 +37,7 @@ white
 design: as discussed  
 color: white  
 
-# Lamp  
+# Light  
 
 [IKEA TROSS Ceiling track, 3-spots, white](https://www.ikea.com/gb/en/p/tross-ceiling-track-3-spots-white-60262659/)
 [IKEA BASISK Ceiling track, 3-spots, nickel-plated, white](https://www.ikea.com/gb/en/p/basisk-ceiling-track-3-spots-nickel-plated-white-80262583/)
