@@ -20,22 +20,26 @@ nie latex!
 
 # celling paint  
 
-white
+white  
 
 # door  
 
-same as walls
+same as walls  
 
-ideas:
+ideas:  
 mirror one side / both sides?
-https://www.aliexpress.com/item/32814313481.html
-https://www.aliexpress.com/item/32827913660.html
+[mirrow sticker 50cm x 100cm](https://www.aliexpress.com/item/32814313481.html)
+[mirror sticker 50cm x 10m](https://www.aliexpress.com/item/32827913660.html)
 
 # Architraves  
 
-white
+white  
 
 # Skirtings  
 
-design: as discussed
-color: white
+design: as discussed  
+color: white  
+
+# Lamp  
+
+3 Plate Spotlight
