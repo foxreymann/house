@@ -44,7 +44,7 @@ color: white
 
 # Radiator
 
-??
+double 120cm x 60cm
 
 # Blinds front window
 

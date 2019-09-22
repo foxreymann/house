@@ -1,30 +1,30 @@
 # measurements  
 
-192cm x 186cm  
+bathroom depth - 192cm
 
-shower 80cm  
-sink 50cm  
-toilet 40cm  
-toilet space from wall 10cm  
-space free - 6cm  
+bathroom width - 186.5cm
+
+192 - 80 - 43 - 38 = 31cm
 
 # wall tiles  
 
 [Selco Willow light grey ceramic wall tile](https://www.selcobw.com/products/flooring-tiling/tiling/wall-tiles/willow-light-grey-ceramic-wall-tile-248-x-398mm-box-of-10-covers-1m)  
 
+mapei
 grount: gray
 
 # floor tiles  
 
 [Selco meier grey anti slip ceramic floor tile 450 x 450mm box of 7 covers 1.42m²](https://www.selcobw.com/products/flooring-tiling/tiling/floor-tiles/meier-grey-anti-slip-ceramic-floor-tile-450-x-450mm-box-of-7-covers-1-42m)  
 
+mapei
 grount: dark gray
 
 # shower  
 
 [eBay Offset Quadrant Shower Enclosure Corner Cubicles and Tray-800/900/1000/1200 mm](https://www.ebay.co.uk/itm/Offset-Quadrant-Shower-Enclosure-Corner-Cubicles-and-Tray-800-900-1000-1200-mm/282727069001)
 
-[eBay mixer](https://www.ebay.co.uk/itm/Bathroom-Shower-Mixer-Thermostatic-Set-Twin-Head-Chrome-Exposed-Valve-Round-Set/192434717092)  
+[eBay mixer](https://www.ebay.co.uk/itm/Bathroom-Shower-Mixer-Thermostatic-Set-Twin-Head-Chrome-Exposed-Valve-Round-Set/192434717092) - ORDERED, arriving 24/09 - 25/09
 
 eventually:
 
@@ -68,7 +68,7 @@ on top of the mirror above the sink:
 
 # radiator
 
-??
+60cm x 180cm
 
 # blinds
 
