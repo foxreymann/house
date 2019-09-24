@@ -17,6 +17,8 @@ silicon: matching the grout
 
 5 rows of tiles, then the shelve, then mirror glued to the wall on top of the shelve
 
+![](./design.jpg)  
+
 # floor tiles  
 
 [B&Q Soft patinated Grey Matt Wood effect Porcelain Floor tile](https://www.diy.com/departments/soft-patinated-grey-matt-wood-effect-porcelain-floor-tile-pack-of-11-l-600mm-w-150mm/3663602675839_BQ.prd)  
@@ -76,7 +78,3 @@ on top of the mirror above the sink:
 # blinds  
 
 ??
-
-# design  
-
-![](./design.jpg)  
