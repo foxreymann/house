@@ -15,7 +15,7 @@ bathroom width - 186.5cm
 grount: mapei gray  
 silicon: matching the grout  
 
-5 rows of tiles, then the shelve, then mirror glued to the wall on top of the shelve
+5 rows of tiles (so 125cm), then the shelve, then mirror glued to wall on top of the shelve
 
 ![](./design.jpg)  
 
