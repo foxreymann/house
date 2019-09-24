@@ -67,14 +67,21 @@ white
 
 # mirror light  
 
-on top of the mirror above the sink:  
-
-[IKEA LEDSJÖ LED wall lamp, stainless steel](https://www.ikea.com/gb/en/p/ledsjoe-led-wall-lamp-stainless-steel-40359761/)  
-
 # radiator  
 
 60cm x 180cm  
 
-# blinds  
+# washing machine
 
-??
+
+[AO BEKO](https://ao.com/product/wtg50m1w-beko-washing-machine-white-55768-1.aspx#reviewsSection) - 41.5cm depth, 5kg 28' programme
+
+[Beko manual](https://bekoplc.blob.core.windows.net/bekoupload/manuals/WTG50M1.pdf)
+
+[AO Indesit](https://ao.com/product/ewsd61252w-indesit-my-time-washing-machine-white-37178-1.aspx#reviewsSection) - 42.4cm depth, 1.5kg 20' programme, 3kg 30' programme
+
+[JohnLewis Indesit]
+
+[Indesit manual](http://docs.whirlpool.eu/_doc/19513726400_GB.pdf)
+
+[Argos Bush](https://www.argos.co.uk/product/7434772) = 49.7cm depth, 2kg 15' programme
