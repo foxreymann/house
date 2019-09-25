@@ -23,7 +23,7 @@ silicon: matching the grout
 
 [B&Q Soft patinated Grey Matt Wood effect Porcelain Floor tile](https://www.diy.com/departments/soft-patinated-grey-matt-wood-effect-porcelain-floor-tile-pack-of-11-l-600mm-w-150mm/3663602675839_BQ.prd)  
 
-6 boxes  
+5 boxes
 
 grount: mapei dark gray  
 silicon: matching the grout  
@@ -85,3 +85,7 @@ white
 [Indesit manual](http://docs.whirlpool.eu/_doc/19513726400_GB.pdf)
 
 [Argos Bush](https://www.argos.co.uk/product/7434772) = 49.7cm depth, 2kg 15' programme
+
+[AppliancesDirect Haier](https://www.appliancesdirect.co.uk/p/hw60-12829/haier-hw6012829)
+
+[Haire manual](https://data.fast.eu/manual/40/40037418/40037418-im-en.pdf)
