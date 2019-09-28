@@ -1,48 +1,53 @@
 # measurements  
 
-bathroom depth - 192cm
+bathroom depth - 192cm  
 
-bathroom width - 186.5cm
+bathroom width - 186.5cm  
 
-192 - 80 - 43 - 38 = 31cm
+192 - 80 - 43 - 38 = 31cm  
 
 # wall tiles  
 
 [Selco Willow light grey ceramic wall tile](https://www.selcobw.com/products/flooring-tiling/tiling/wall-tiles/willow-light-grey-ceramic-wall-tile-248-x-398mm-box-of-10-covers-1m)  
 
-mapei
-grount: gray
+10 boxes  
+
+grount: mapei gray  
+silicon: matching the grout  
+
+5 rows of tiles (so 125cm), then the shelve, then mirror glued to wall on top of the shelve
+
+![](./design.jpg)  
 
 # floor tiles  
 
-[Selco meier grey anti slip ceramic floor tile 450 x 450mm box of 7 covers 1.42m²](https://www.selcobw.com/products/flooring-tiling/tiling/floor-tiles/meier-grey-anti-slip-ceramic-floor-tile-450-x-450mm-box-of-7-covers-1-42m)  
+[B&Q Soft patinated Grey Matt Wood effect Porcelain Floor tile](https://www.diy.com/departments/soft-patinated-grey-matt-wood-effect-porcelain-floor-tile-pack-of-11-l-600mm-w-150mm/3663602675839_BQ.prd)  
 
-mapei
-grount: dark gray
+5 boxes
+
+grount: mapei dark gray  
+silicon: matching the grout  
+
+layout of floor tiles:
+![](./toptiles.jpeg)
 
 # shower  
 
-[eBay Offset Quadrant Shower Enclosure Corner Cubicles and Tray-800/900/1000/1200 mm](https://www.ebay.co.uk/itm/Offset-Quadrant-Shower-Enclosure-Corner-Cubicles-and-Tray-800-900-1000-1200-mm/282727069001)
+[eBay Offset Quadrant Shower Enclosure Corner Cubicles and Tray-800/900/1000/1200 mm](https://www.ebay.co.uk/itm/Offset-Quadrant-Shower-Enclosure-Corner-Cubicles-and-Tray-800-900-1000-1200-mm/282727069001) - ORDERED, coming 24/09 - 25/09  
 
-[eBay mixer](https://www.ebay.co.uk/itm/Bathroom-Shower-Mixer-Thermostatic-Set-Twin-Head-Chrome-Exposed-Valve-Round-Set/192434717092) - ORDERED, arriving 24/09 - 25/09
-
-eventually:
-
-[B&Q tray](https://www.diy.com/departments/cooke-lewis-lagan-quadrant-shower-tray-l-800mm-w-800mm-d-150mm/3663602435815_BQ.prd)  
-
-[Wickes enclosure](https://www.wickes.co.uk/Wickes-800-x-800mm---Quadrant-Sliding-Shower-Enclosure---Chrome/p/161394)  
+[eBay mixer](https://www.ebay.co.uk/itm/Bathroom-Shower-Mixer-Thermostatic-Set-Twin-Head-Chrome-Exposed-Valve-Round-Set/192434717092) - ORDERED, arriving 24/09 - 25/09  
 
 # sink  
 
 [IKEA ODENSVIK Single wash-basin, 43x49x6cm](https://www.ikea.com/gb/en/p/odensvik-single-wash-basin-00438794/)  
 
-[IKEA GODMORGON Wash-stand with 2 drawers, high gloss gray, 40x47x58 cm](https://www.ikea.com/gb/en/p/godmorgon-wash-stand-with-2-drawers-high-gloss-grey-30324649/)
+[IKEA GODMORGON Wash-stand with 2 drawers, high gloss gray, 40x47x58 cm](https://www.ikea.com/gb/en/p/godmorgon-wash-stand-with-2-drawers-high-gloss-grey-30324649/)  
 
-[IKEA OLSKÄR Wash-basin mixer tap, chrome-plated](https://www.ikea.com/gb/en/p/olskaer-wash-basin-mixer-tap-chrome-plated-20219031/)
+[IKEA OLSKÄR Wash-basin mixer tap, chrome-plated](https://www.ikea.com/gb/en/p/olskaer-wash-basin-mixer-tap-chrome-plated-20219031/)  
 
 # toilet  
 
-[HOMEBASE Close Coupled Toilet](https://www.homebase.co.uk/close-coupled-toilet_p387839)
+[HOMEBASE Close Coupled Toilet](https://www.homebase.co.uk/close-coupled-toilet_p387839)  
 
 # wall paint  
 
@@ -52,28 +57,43 @@ the same color as rest of the house
 
 white  
 
-# celling light
+# celling light  
 
-[IKEA TROSS Ceiling track, 3-spots, white](https://www.ikea.com/gb/en/p/tross-ceiling-track-3-spots-white-60262659/)
+[IKEA TROSS Ceiling track, 3-spots, white](https://www.ikea.com/gb/en/p/tross-ceiling-track-3-spots-white-60262659/)  
 
-# mirror
+# mirror  
 
-[simplyplastics cut to size](https://www.simplyplastics.com/catalog/sheet/acrylic-mirror-sheet/silver-acrylic-mirror-sheet/c-24/c-86/p-245)
+[simplyplastics cut to size](https://www.simplyplastics.com/catalog/sheet/acrylic-mirror-sheet/silver-acrylic-mirror-sheet/c-24/c-86/p-245)  
 
-# mirror light
+# mirror light  
 
-on top of the mirror above the sink:
+# radiator  
 
-[IKEA LEDSJÖ LED wall lamp, stainless steel](https://www.ikea.com/gb/en/p/ledsjoe-led-wall-lamp-stainless-steel-40359761/)
+60cm x 180cm  
 
-# radiator
+# washing machine
 
-60cm x 180cm
 
-# blinds
+[AO BEKO](https://ao.com/product/wtg50m1w-beko-washing-machine-white-55768-1.aspx#reviewsSection) - 41.5cm depth, 5kg 28' programme
 
-??
+[Beko manual](https://bekoplc.blob.core.windows.net/bekoupload/manuals/WTG50M1.pdf)
 
-# design
+[AO Indesit](https://ao.com/product/ewsd61252w-indesit-my-time-washing-machine-white-37178-1.aspx#reviewsSection) - 42.4cm depth, 1.5kg 20' programme, 3kg 30' programme
 
-![](./design.jpg)
+[JohnLewis Indesit]
+
+[Indesit manual](http://docs.whirlpool.eu/_doc/19513726400_GB.pdf)
+
+[Argos Bush](https://www.argos.co.uk/product/7434772) = 49.7cm depth, 2kg 15' programme
+
+[AppliancesDirect Haier](https://www.appliancesdirect.co.uk/p/hw60-12829/haier-hw6012829)
+
+[Haire manual](https://data.fast.eu/manual/40/40037418/40037418-im-en.pdf)
+
+[AppliancesDirect BEKO Black](https://www.appliancesdirect.co.uk/p/a1%2fwtg641m1b/beko-a1wtg641m1b-appliances-freestanding-washing-machine)
+
+[Beko black manual](https://bekoplc.blob.core.windows.net/bekoupload/manuals/WTG641M1.pdf)
+
+15 mins 2kg 30', 15min 6kg 30-60-90'
+
+![](https://cdn.shopify.com/s/files/1/0030/8461/5729/products/beko-wtg641m1-freestanding-a-6kg-1400rpm-washing-machine-3_2500x2500.jpg?v=1561763237)
