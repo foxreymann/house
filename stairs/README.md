@@ -21,3 +21,7 @@ white
 
 Dulux Sapphire Salute 50BB 08/171
 <div style="width: 100%; height: 100px; background-color: #324965"></div>
+
+## loft stairs
+
+paint with something like [Capon Extra](https://antbs.co.uk/en/wood-varinshes/2518-domalux-lakier-do-drewna-polysk.html) for the wood to keep the light color. then normal varnish.
