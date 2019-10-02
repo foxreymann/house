@@ -6,4 +6,16 @@
 
 # gront to first floor stairs
 
-![](https://i.pinimg.com/originals/5c/05/9c/5c059ca6ef353e825f27bf5350ac6a2c.jpg)
+![](https://i.pinimg.com/originals/4c/05/9c/5c059ca6ef353e825f27bf5350ac6a2c.jpg)
+
+## tread color
+
+??
+
+## riser color
+
+white
+
+## handrail color
+
+??
