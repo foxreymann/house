@@ -10,7 +10,8 @@
 
 ## tread color
 
-??
+Dulux Cannon Ball 90BG 11/106
+<div style="width: 100%; height: 100px; background-color: #99AFBC"></div>
 
 ## riser color
 
@@ -18,4 +19,5 @@ white
 
 ## handrail color
 
-??
+Dulux Sapphire Salute 50BB 08/171
+<div style="width: 100%; height: 100px; background-color: #324965"></div>
