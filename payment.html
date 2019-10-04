@@ -1,11 +1,23 @@
 ---
 my_number: 5
 ---
+{% assign total = 0 %}
+
 <dl>
 {% for row in site.data.payment %}
 
 <dt>{{ row.GBP }} GBP</dt>
 <dd>{{ row.desc }}</dd>
+{% assign total = total | plus: row.GBP%}
 
 {% endfor %}
 </dl>
+
+<div>SUM: {{ total }} GBP
+
+<div>
+to sum:
+<pre>
+$ datamash -t, -H sum 2 < _data/payment.csv
+</pre>
+<div>
