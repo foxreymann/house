@@ -6,6 +6,8 @@
 
 # [Ground floor](./ground-floor/README.md)
 
+# [Payment](./payment.html)
+
 # ground floor plan
 
 ![](./ground-floor-new-layout.png)
