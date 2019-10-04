@@ -1,9 +1,3 @@
----
-my_number: 5
----
-{{ page.my_number }}
-
-
 MIT License
 
 Copyright (c) 2018 Nicolas Vanhoren
