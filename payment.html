@@ -1,10 +1,11 @@
 ---
 my_number: 5
 ---
+<dl>
 {% for row in site.data.payment %}
 
-<div>
-{{ row.desc }}: {{ row.GBP }}GBP
-</div>
+<dt>{{ row.GBP }} GBP</dt>
+<dd>{{ row.desc }}</dd>
 
 {% endfor %}
+</dl>
