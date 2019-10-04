@@ -1,10 +1,7 @@
----
-my_number: 5
----
-{{ page.my_number }}
-
 {% for row in site.data.payment %}
 
-{{ row.desc }} {{ row.GBP }}
+<div>
+{{ row.desc }}: £{{ row.GBP }}
+</div>
 
 {% endfor %}
