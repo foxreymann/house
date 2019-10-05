@@ -1,6 +1,9 @@
 ---
 my_number: 5
 ---
+
+<h1>total</h1>
+
 {% assign total = 0 %}
 
 <dl>
@@ -18,9 +21,8 @@ my_number: 5
   <dd>SUM</dd>
 </dl>
 
-<div>
-to sum from cli:
+<h1>cli</h1>
+
 <pre>
 $ datamash -t, -H sum 2 < _data/payment.csv
 </pre>
-<div>
