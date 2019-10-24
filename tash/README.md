@@ -63,23 +63,3 @@ Electric certifcate
 ## GENERAL  
 
 Full Renovation Rubbish Removal - from previous team too  
-
-## missing  
-
-DEADLINE!!
-ground floor  
-  bell  
-  outside light?
-  kitchen tiles - provide and install  
-bedroom  
-  fix window  
-loft  
-  panel flooring included?
-  radiator installation  
-garden  
-  slate, washing line - labour work  
-gas certificate  
-electric certificate  
-bathroom  
-  door painting  
-  fix door hinges  
