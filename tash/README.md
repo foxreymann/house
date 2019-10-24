@@ -67,3 +67,7 @@ Mini-jack AUX in on the ground floor
 ## GENERAL  
 
 Full Renovation Rubbish Removal - from previous team too  
+
+## PRICE
+
+£10k
