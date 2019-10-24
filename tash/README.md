@@ -29,9 +29,10 @@ X1 radiator to install
 New stairs to be sanded and vanished  
 New pieces of soft wood to be added to cover up old pieces of the stairs and to be vanished as well  
 Original stairs to be painted treads and risers and handrails to be painted too  
+New stairs - one additional newel base, plus 3 newel caps
 
 ## DOWN STAIRS WORK  
-To have an fat pack Ikea kitchen to be built up and installed with work tops  
+To have an flat pack Ikea kitchen to be built up and installed with work tops  
 New gas hob to be installed  
 New sink to be installed  
 Gas pipe to be moved over  
