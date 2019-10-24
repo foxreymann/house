@@ -54,11 +54,16 @@ Soft wood window sill to be installed and stained in walnut
 Outside light to fix  
 ~~Slate to put down outside~~
 Washing line to put outside (3 lines)  
-**Remove concrete and install paving slabs**
+**Remove concrete, install and provide outdoor tiles**
 
 ## CERTIFICATE  
 Gas safe certifcate  
 Electric certifcate  
+
+## Sound system
+
+Mini-jack AUX in on the ground floor  
+6 ceiling speakers, each with on/off/volume control
 
 ## GENERAL  
 
