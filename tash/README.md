@@ -23,6 +23,7 @@ The rest of the loft to be insulated with wool and expanding foam and plaster bo
 A piece of plaster board to be added and cls baton  
 The loft to be painted and laminate fooring to be installed  
 X1 radiator to install  
+clothes rails to be installed, 5 simple [towel rails](https://www.ebay.co.uk/itm/Pipe-Towel-Rail-Towel-Holder-Industrial-Rustic-Decor-Fixings-Included-M/401881998602) on the loft ceiling
 
 ## STAIRS  
 New stairs to be sanded and vanished  
