@@ -8,15 +8,15 @@ Fix window in bedroom
 ## BATHROOM  
 2x lights and mirrors to be installed and tiles around the lights and mirrors to be installed, bathroom to be plastered  and painted,
 
-**additional 60cm x 60cm mirror on the window wall**
+**additional 60cm x 60cm mirror on the window wall**  
 **[IKEA EKET](https://www.ikea.com/gb/en/p/eket-wall-mounted-cabinet-combination-dark-grey-s49307640/) cabinet to be installed above washihg machine**
 
-Bathroom to be fnished,
-~~reinstall / install new bathroom sink~~
+Bathroom to be fnished,  
+~~reinstall / install new bathroom sink~~  
 foor to be finish (tiles to be installed, grouted etc.)  
 wall tiles to be finished  
 Paint bathroom door  
-~~Fix bathroom door hinge~~
+~~Fix bathroom door hinge~~  
 Fit soft wood window sill in bathroom and stain in walnut  
 1x towel rail radiator to be installed,
 
@@ -53,7 +53,7 @@ Soft wood window sill to be installed and stained in walnut
 ## GARDEN  
 Outside light to fix  
 ~~Slate to put down outside~~
-Washing line to put outside (3 lines)
+Washing line to put outside (3 lines)  
 **Remove concrete and install paving slabs**
 
 ## CERTIFICATE  
