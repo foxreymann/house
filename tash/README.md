@@ -7,8 +7,12 @@ Fix window in bedroom
 
 ## BATHROOM  
 2x lights and mirrors to be installed and tiles around the lights and mirrors to be installed, bathroom to be plastered  and painted,
+
+**additional 60cm x 60cm mirror on the window wall**
+**[IKEA EKET](https://www.ikea.com/gb/en/p/eket-wall-mounted-cabinet-combination-dark-grey-s49307640/) cabinet to be installed above washihg machine**
+
 Bathroom to be fnished,
-reinstall / install new bathroom sink  
+~~reinstall / install new bathroom sink~~
 foor to be finish (tiles to be installed, grouted etc.)  
 wall tiles to be finished  
 Paint bathroom door  
@@ -17,15 +21,15 @@ Fit soft wood window sill in bathroom and stain in walnut
 1x towel rail radiator to be installed,
 
 ## LOFT WORK  
-The rest of the loft to be insulated with wool and expanding foam and plaster board A piece of plaster board to be  
-added and cls baton  
+The rest of the loft to be insulated with wool and expanding foam and plaster board  
+A piece of plaster board to be added and cls baton  
 The loft to be painted and laminate fooring to be installed  
 X1 radiator to install  
 
 ## STAIRS  
 New stairs to be sanded and vanished  
-New pieces of soft wood to be added to cover up old pieces of the stairs and to be vanished as well Original stairs to  
-be painted treads and risers and handrails to be painted too  
+New pieces of soft wood to be added to cover up old pieces of the stairs and to be vanished as well  
+Original stairs to be painted treads and risers and handrails to be painted too  
 
 ## DOWN STAIRS WORK  
 To have an fat pack Ikea kitchen to be built up and installed with work tops  
@@ -35,7 +39,6 @@ Gas pipe to be moved over
 The boiler to be put on a spur switch  
 Laminated fooring to be installed downstairs  
 Downstairs to be painted  
-Item Quantity Price Amount  
 3x lights to be installed and 1x smoke alarm  
 All holes and missing plaster board to be flled in before painting  
 Wood under the stairs to be removed and cut back to make neater  
@@ -48,9 +51,10 @@ Bell outside
 Soft wood window sill to be installed and stained in walnut  
 
 ## GARDEN  
-Outside light to fx  
-Slate to put down outside  
-Washing line to put outside  
+Outside light to fix  
+~~Slate to put down outside~~
+Washing line to put outside (3 lines)
+**Remove concrete and install paving slabs**
 
 ## CERTIFICATE  
 Gas safe certifcate  
