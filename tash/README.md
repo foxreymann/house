@@ -6,11 +6,9 @@ laminate fooring to be fnished on the landing
 Fix window in bedroom  
 
 ## BATHROOM  
-2x lights and mirrors to be installed and tiles around the lights and mirrors to be installed, bathroom to be plastered  and painted,
-
+2x lights and mirrors to be installed and tiles around the lights and mirrors to be installed, bathroom to be plastered  and painted,  
 **additional 60cm x 60cm mirror on the window wall**  
 **[IKEA EKET](https://www.ikea.com/gb/en/p/eket-wall-mounted-cabinet-combination-dark-grey-s49307640/) cabinet to be installed above washihg machine**
-
 Bathroom to be fnished,  
 ~~reinstall / install new bathroom sink~~  
 foor to be finish (tiles to be installed, grouted etc.)  
