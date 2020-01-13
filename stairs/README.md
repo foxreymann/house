@@ -1,7 +1,3 @@
-# loft stairs
-
-paint with something like [Capon Extra](https://antbs.co.uk/en/wood-varinshes/2518-domalux-lakier-do-drewna-polysk.html) for the wood to keep the light color. then normal chemically hardenable varnish.
-
 # handrails
 
 ![](https://4.bp.blogspot.com/-XJgfFcGBpw4/ULgRCijqRVI/AAAAAAAAB_A/gdO8gxzwdwY/s640/New+England+Holiday+Decorating+New+England+Fine+Living.com+021.JPG)
