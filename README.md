@@ -1,3 +1,5 @@
+# [Tash quote](./tash/README.md)
+
 # [Bedroom](./bedroom/README.md)
 
 # [Bathroom](./bathroom/README.md)
