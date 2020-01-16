@@ -2,22 +2,39 @@
 
 ## UPSTAIRS WORK  
 1x radiator to be ftted in the bedroom  
-status: completed
+status: done  
 
 laminate fooring to be fnished on the landing  
-status: 
+status: 90% done  
+todo: fill the gap between laminate flooring and new piece of floor  
 
-Fix window in bedroom  
+**Fix window in bedroom**  
+status: not done  
 
 ## BATHROOM  
 2x lights and mirrors to be installed and tiles around the lights and mirrors to be installed  
-bathroom to be plastered  and painted,  
+status: done  
+
+**bathroom to be plastered  and painted,**  
+status: not done  
+
 **additional 60cm x 60cm mirror on the window wall**  
-**[IKEA EKET](https://www.ikea.com/gb/en/p/eket-wall-mounted-cabinet-combination-dark-grey-s49307640/) cabinet to be installed above washihg machine**
-Bathroom to be fnished,  
-~~reinstall / install new bathroom sink~~  
-foor to be finish (tiles to be installed, grouted etc.)  
+status: done  
+
+**[IKEA EKET](https://www.ikea.com/gb/en/p/eket-wall-mounted-cabinet-combination-dark-grey-s49307640/) cabinet to be installed above washihg machine**  
+status: agreed to put on a shelve made from worktop instead of the cabinet. not done.  
+
+**Bathroom to be fnished,**  
+status: not done
+todo: install toilet to the floor
+
+**foor to be finish (tiles to be installed, grouted etc.) ** 
+status: not done
+todo: tile under the toilet as discussed. not tile around the toilet leaving toilet standing on two pieces of wood
+
 wall tiles to be finished  
+status: done
+
 Paint bathroom door  
 ~~Fix bathroom door hinge~~  
 Fit soft wood window sill in bathroom and stain in walnut  
@@ -28,7 +45,7 @@ The rest of the loft to be insulated with wool and expanding foam and plaster bo
 A piece of plaster board to be added and cls baton  
 The loft to be painted and laminate fooring to be installed  
 X1 radiator to install  
-**clothes rails to be installed, 6 simple [towel rails](https://www.ebay.co.uk/itm/Pipe-Towel-Rail-Towel-Holder-Industrial-Rustic-Decor-Fixings-Included-M/401881998602) on the loft ceiling**
+**clothes rails to be installed, 6 simple [towel rails](https://www.ebay.co.uk/itm/Pipe-Towel-Rail-Towel-Holder-Industrial-Rustic-Decor-Fixings-Included-M/401881998602) on the loft ceiling**  
 
 ## STAIRS  
 New stairs to be sanded and vanished  
@@ -59,7 +76,7 @@ Soft wood window sill to be installed and stained in walnut
 Outside light to fix  
 ~~Slate to put down outside~~
 Washing line to put outside (3 lines)  
-**Remove concrete, install and provide outdoor tiles**
+**Remove concrete, install and provide outdoor tiles**  
 
 ## CERTIFICATE  
 Gas safe certifcate  
@@ -74,6 +91,4 @@ Mini-jack AUX in on the ground floor
 
 Full Renovation Rubbish Removal - from previous team too  
 
-## PRICE  
-
-£10k  
+## DAMAGE TO BE FIXED  
