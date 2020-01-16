@@ -35,16 +35,31 @@ todo: tile under the toilet as discussed. not tile around the toilet leaving toi
 wall tiles to be finished  
 status: done
 
-Paint bathroom door  
-~~Fix bathroom door hinge~~  
-Fit soft wood window sill in bathroom and stain in walnut  
-1x towel rail radiator to be installed,
+**Paint bathroom door**  
+status: not done
+
+**Fit soft wood window sill in bathroom and stain in walnut**  
+status: not done
+
+**1x towel rail radiator to be installed,**
+status: done
 
 ## LOFT WORK  
-The rest of the loft to be insulated with wool and expanding foam and plaster board  
-A piece of plaster board to be added and cls baton  
-The loft to be painted and laminate fooring to be installed  
-X1 radiator to install  
+**The rest of the loft to be insulated with wool and expanding foam and plaster boardi**
+status: not done
+
+**A piece of plaster board to be added and cls baton**  
+status: partly done
+todo: hole between plaster board and ceiling. top part of the plaster sticks out. 
+
+**The loft to be painted and laminate fooring to be installed**  
+status: partly done
+todo: fix damage caused when laminating, finish  
+
+**X1 radiator to install**  
+status: not done
+todo: fix the leak
+
 **clothes rails to be installed, 6 simple [towel rails](https://www.ebay.co.uk/itm/Pipe-Towel-Rail-Towel-Holder-Industrial-Rustic-Decor-Fixings-Included-M/401881998602) on the loft ceiling**  
 
 ## STAIRS  
