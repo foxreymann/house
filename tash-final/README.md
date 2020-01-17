@@ -22,7 +22,8 @@ status: not done
 status: done  
 
 **[IKEA EKET](https://www.ikea.com/gb/en/p/eket-wall-mounted-cabinet-combination-dark-grey-s49307640/) cabinet to be installed above washihg machine**  
-status: agreed to put on a shelve made from worktop instead of the cabinet. not done.  
+change: agreed to put on a shelve made from worktop instead  
+status: not done.  
 
 **Bathroom to be fnished,**  
 status: not done
@@ -31,6 +32,7 @@ todo: install toilet to the floor
 **foor to be finish (tiles to be installed, grouted etc.) ** 
 status: not done
 todo: tile under the toilet as discussed. not tile around the toilet leaving toilet standing on two pieces of wood
+todo: finish next to the wall
 
 wall tiles to be finished  
 status: done
@@ -54,19 +56,28 @@ todo: hole between plaster board and ceiling. top part of the plaster sticks out
 
 **The loft to be painted and laminate fooring to be installed**  
 status: partly done
-todo: fix damage caused when laminating, finish  
+todo: paint  
+todo: finish floor at the edges  
 
 **X1 radiator to install**  
 status: not done
 todo: fix the leak
 
 **clothes rails to be installed, 6 simple [towel rails](https://www.ebay.co.uk/itm/Pipe-Towel-Rail-Towel-Holder-Industrial-Rustic-Decor-Fixings-Included-M/401881998602) on the loft ceiling**  
+status: not done
 
 ## STAIRS  
-New stairs to be sanded and vanished  
-New pieces of soft wood to be added to cover up old pieces of the stairs and to be vanished as well  
-Original stairs to be painted treads and risers and handrails to be painted too  
-New stairs - one additional newel base, plus 3 newel caps  
+**New stairs to be sanded and vanished**  
+status: not done  
+
+**New pieces of soft wood to be added to cover up old pieces of the stairs and to be vanished as well**  
+status: not done
+
+**Original stairs to be painted treads and risers and handrails to be painted too**  
+staus: not done
+
+**New stairs - one additional newel base, plus 3 newel caps**  
+status: not done
 
 ## DOWN STAIRS WORK  
 To have an flat pack Ikea kitchen to be built up and installed with work tops  
