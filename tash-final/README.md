@@ -29,6 +29,7 @@ status: not done.
 **Bathroom to be fnished,**  
 status: not done  
 not done: install toilet to the floor, plaster and paint  
+not done: grount window sill
 
 **foor to be finish (tiles to be installed, grouted etc.)**  
 status: not done  
