@@ -202,3 +202,9 @@ desk drawer front
 shower tray  
 
 loft hall wall damage  
+
+## PAYMENT
+
+10000 - 15 - 250 = 9735 - 6645 = 3090
+
+negotiate down

@@ -1,5 +1,16 @@
-Tash, Marek is living here for the next week so he is going to let you in. if you're like on time.
+goal
+  pay as little as possible
+how much do I owe?
+what was not done on tuesday
+  garden rubbish removal
+  washing line
+  bathroom has this tile crosses in
+  under the stairs bit
+  skirting - ground floor and loft
+  electric certificate
+  speakers
 
-Isn't giving back the key part of finish the work?
+# speakers
 
-Tash, I'm with a client ATM. Just read the invoice, that is what I would do. I can't open it ATM so I don't remember everything.
+turn on all speakers!
+turn on only the groundfloor!
